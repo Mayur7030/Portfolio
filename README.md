@@ -3,7 +3,8 @@
 Welcome to my personal portfolio repository! I'm a Senior Frontend Engineer with 4+ years of experience building scalable, high-performance enterprise web applications.
 
 ## 🚀 Live Demo
-*(Insert link to the deployed portfolio here once hosted)*
+
+[https://mayur-pawar-portfolio.netlify.app/](https://mayur-pawar-portfolio.netlify.app/)
 
 ## ✨ Features
 - **Modern UI/UX:** Premium aesthetic with a customized Teal/Amber color scheme, glassmorphism, smooth scroll reveals, and a custom tracking cursor.
